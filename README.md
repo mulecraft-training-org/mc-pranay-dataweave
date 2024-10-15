@@ -6,7 +6,7 @@
 
 Click below to find `Addition` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-pranay-dataweave&path=functions/addition"><img width="300" src="/images/dwplayground-button.png"><a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=MuleCraft/mc-pranay-dataweave&path=functions/addition"><img width="300" src="/images/dwplayground-button.png"></a>
 
 Click below to find `Subtraction` function in DataWeave:
 
