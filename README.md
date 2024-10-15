@@ -6,4 +6,4 @@
 
 Click below to find $Addition$ function in DataWeave:
 
-<a href=""></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?"><img width="300" src="/images/dwplayground-button.png"></a>
