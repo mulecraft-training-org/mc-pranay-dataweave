@@ -1,8 +1,10 @@
 %dw 2.0
 output application/json
 var countryCode="+91"
----
-{
-    "name": payload.firstName ++ " " ++ payload.lastName,
-    "mobile": countryCode ++ payload.mobile
+
+fun detail(person)={
+    "name":person.firstName++ " " ++ person.lastName,
+    "mobile":person.mobile
 }
+---
+detail(payload)
