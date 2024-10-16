@@ -4,7 +4,7 @@ var countryCode="+91"
 
 fun detail(person)={
     "name":person.firstName++ " " ++ person.lastName,
-    "mobile":person.mobile
+    "mobile": countryCode ++ person.mobile
 }
 ---
 detail(payload)
