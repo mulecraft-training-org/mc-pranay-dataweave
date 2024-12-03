@@ -1,0 +1,18 @@
+{
+    "users" : [
+   {
+      "user": {
+         "name": "123",
+         "lastName": "Smith"
+      },
+      "error": "That name doesn't exists"
+   },
+   {
+      "user": {
+         "name": "John",
+         "lastName": "Johnson"
+      },
+      "error": null
+   }
+]
+}
