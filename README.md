@@ -1,8 +1,8 @@
 # mc-pranay-dataweave
 
-## Functions in Dataweave
+## In this repository, I will be covering the basics of DataWeave alongwith the functions and operations in Dataweave.
 
-#### In this repository, I will be covering the basics of DataWeave alongwith its functions and operations.
+#### Functions in Dataweave
 
 Click below to find `Addition` function in DataWeave:
 
