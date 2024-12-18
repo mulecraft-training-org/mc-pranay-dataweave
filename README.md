@@ -88,4 +88,16 @@ Click below to find `splitBy` function in DataWeave:
 
 #### Dataweave Challenges
 
+1. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/1"><img width="300" src="/images/dwplayground-button.png"></a>
+
+2. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/2"><img width="300" src="/images/dwplayground-button.png"></a>
+
+3. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/3"><img width="300" src="/images/dwplayground-button.png"></a>
+
+4. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/4"><img width="300" src="/images/dwplayground-button.png"></a>
+
 5. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/5"><img width="300" src="/images/dwplayground-button.png"></a>
+
+6. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/6"><img width="300" src="/images/dwplayground-button.png"></a>
+
+7. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/7"><img width="300" src="/images/dwplayground-button.png"></a>
