@@ -76,3 +76,11 @@ Click below to find `floor` function in DataWeave:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/floor/floor-mapObject"><img width="300" src="/images/dwplayground-button.png"></a>
 5. Use of `floor` on negative-numbers:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/floor/floor-negativeNumbers"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `splitBy` function in DataWeave:
+1. Basic usage of `splitBy`:
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/splitBy/splitBy-basicUsage"><img width="300" src="/images/dwplayground-button.png"></a>
+2. Use of `splitBy` on Multi Character Delimiter:
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/splitBy/splitBy-splittingByMultiCharacterDelimiter"><img width="300" src="/images/dwplayground-button.png"></a>
+3. Use of `splitBy` on splitting by space:
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/splitBy/splitBy-splittingBySpace"><img width="300" src="/images/dwplayground-button.png"></a>
