@@ -24,4 +24,10 @@ Click below to find `filter` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/filter"><img width="300" src="/images/dwplayground-button.png"></a>
 
+Click below to find `flatten` function in DataWeave:
 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/flatten"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `namesOf` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/namesOf"><img width="300" src="/images/dwplayground-button.png"></a>
