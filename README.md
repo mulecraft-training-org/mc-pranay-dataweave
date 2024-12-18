@@ -51,7 +51,7 @@ Click below to find `remove` function in DataWeave:
 Click below to find `string-operations` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/string-operations"><img width="300" src="/images/dwplayground-button.png"></a>
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/string-operations-1"><img width="300" src="/images/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/string-operations1"><img width="300" src="/images/dwplayground-button.png"></a>
 
 Click below to find `substring` function in DataWeave:
 
