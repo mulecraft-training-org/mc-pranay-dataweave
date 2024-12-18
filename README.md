@@ -84,3 +84,8 @@ Click below to find `splitBy` function in DataWeave:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/splitBy/splitBy-splittingByMultiCharacterDelimiter"><img width="300" src="/images/dwplayground-button.png"></a>
 3. Use of `splitBy` on splitting by space:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/splitBy/splitBy-splittingBySpace"><img width="300" src="/images/dwplayground-button.png"></a>
+
+
+#### Dataweave Challenges
+
+5. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/5"><img width="300" src="/images/dwplayground-button.png"></a>
