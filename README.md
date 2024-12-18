@@ -20,8 +20,8 @@ Click below to find `Concate` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/concate"><img width="300" src="/images/dwplayground-button.png"></a>
 
-Click below to find how `function` is initialized and declared in DataWeave:
+Click below to find `filter` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/functionDeclaration"><img width="300" src="/images/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/filter"><img width="300" src="/images/dwplayground-button.png"></a>
 
 
