@@ -67,7 +67,7 @@ Click below to find `substringBefore` function in DataWeave:
 
 Click below to find `floor` function in DataWeave:
 1. Basic usage of `floor`:
-   <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/floor/floor-basicUsage"><img width="300" src="/images/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/floor/floor-basicUsage"><img width="300" src="/images/dwplayground-button.png"></a>
 2. Use of `floor` in array:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/floor/floor-array"><img width="300" src="/images/dwplayground-button.png"></a>
 3. Use of `floor` in conditional-statements:
