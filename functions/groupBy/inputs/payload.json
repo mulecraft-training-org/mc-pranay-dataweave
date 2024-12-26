@@ -1,0 +1,8 @@
+{
+    "cars": [
+      {"name": "Skoda", "model": "Slavia" },
+      {"name": "Toyota", "model": "Fortuner" },
+      {"name": "Honda", "model": "City" },
+      {"name": "Toyota", "model": "Innova"}
+    ]
+}
