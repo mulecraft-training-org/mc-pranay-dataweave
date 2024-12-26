@@ -98,6 +98,20 @@ Click below to find `groupBy` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/groupBy"><img width="300" src="/images/dwplayground-button.png"></a>
 
+Click below to find `drop` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Arrays/drop"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `take` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Arrays/take"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `takeWhile` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Arrays/takeWhile"><img width="300" src="/images/dwplayground-button.png"></a>
+
+
+
 #### Dataweave Challenges
 
 1. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/1"><img width="300" src="/images/dwplayground-button.png"></a>
