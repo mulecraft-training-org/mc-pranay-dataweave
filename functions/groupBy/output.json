@@ -1,0 +1,24 @@
+{
+  "Skoda": [
+    {
+      "name": "Skoda",
+      "model": "Slavia"
+    }
+  ],
+  "Toyota": [
+    {
+      "name": "Toyota",
+      "model": "Fortuner"
+    },
+    {
+      "name": "Toyota",
+      "model": "Innova"
+    }
+  ],
+  "Honda": [
+    {
+      "name": "Honda",
+      "model": "City"
+    }
+  ]
+}
