@@ -86,8 +86,7 @@ Click below to find `splitBy` function in DataWeave:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/splitBy/splitBy-splittingBySpace"><img width="300" src="/images/dwplayground-button.png"></a>
 
 
-Click below to find `groupBy` function in DataWeave:
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/groupBy"><img width="300" src="/images/dwplayground-button.png"></a>
+
 
 #### Dataweave Challenges
 
