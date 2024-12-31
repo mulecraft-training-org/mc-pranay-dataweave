@@ -110,6 +110,14 @@ Click below to find `takeWhile` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Arrays/takeWhile"><img width="300" src="/images/dwplayground-button.png"></a>
 
+Click below to find `first` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Strings/first"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `last` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Strings/last"><img width="300" src="/images/dwplayground-button.png"></a>
+
 
 
 #### Dataweave Challenges
