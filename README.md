@@ -122,23 +122,23 @@ Click below to find `wait` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::Runtime/wait"><img width="300" src="/images/dwplayground-button.png"></a>
 
-Click below to find `indexWhere` function in DataWeave:
+Click below to find `atBeginningOfDay` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Dates/atBeginningOfDay"><img width="300" src="/images/dwplayground-button.png"></a>
 
-Click below to find `indexWhere` function in DataWeave:
+Click below to find `atBeginningOfHour` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Dates/atBeginningOfHour"><img width="300" src="/images/dwplayground-button.png"></a>
 
-Click below to find `indexWhere` function in DataWeave:
+Click below to find `atBeginningOfWeek` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Dates/atBeginningOfWeek"><img width="300" src="/images/dwplayground-button.png"></a>
 
-Click below to find `indexWhere` function in DataWeave:
+Click below to find `atBeginningOfMonth` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Dates/atBeginningOfMonth"><img width="300" src="/images/dwplayground-button.png"></a>
 
-Click below to find `indexWhere` function in DataWeave:
+Click below to find `atBeginningOfYear` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Dates/atBeginningOfYear"><img width="300" src="/images/dwplayground-button.png"></a>
 
