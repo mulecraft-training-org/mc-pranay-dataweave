@@ -118,6 +118,14 @@ Click below to find `last` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Strings/last"><img width="300" src="/images/dwplayground-button.png"></a>
 
+Click below to find `wait` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::Runtime/wait"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `indexWhere` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Arrays/indexWhere"><img width="300" src="/images/dwplayground-button.png"></a>
+
 
 
 #### Dataweave Challenges
