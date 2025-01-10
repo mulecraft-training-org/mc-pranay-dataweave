@@ -1,0 +1,29 @@
+[
+  {
+    "eventName": "Event 1",
+    "originalTimestamp": "2025-01-10T15:45:30Z",
+    "beginningOfDay": "2025-01-10T00:00:00Z",
+    "beginningOfHour": "2025-01-10T15:00:00Z",
+    "beginningOfWeek": "2025-01-05T00:00:00Z",
+    "beginningOfMonth": "2025-01-01T00:00:00Z",
+    "beginningOfYear": "2025-01-01T00:00:00Z"
+  },
+  {
+    "eventName": "Event 2",
+    "originalTimestamp": "2024-12-25T10:20:00Z",
+    "beginningOfDay": "2024-12-25T00:00:00Z",
+    "beginningOfHour": "2024-12-25T10:00:00Z",
+    "beginningOfWeek": "2024-12-22T00:00:00Z",
+    "beginningOfMonth": "2024-12-01T00:00:00Z",
+    "beginningOfYear": "2024-01-01T00:00:00Z"
+  },
+  {
+    "eventName": "Event 3",
+    "originalTimestamp": "2023-07-04T23:59:59Z",
+    "beginningOfDay": "2023-07-04T00:00:00Z",
+    "beginningOfHour": "2023-07-04T23:00:00Z",
+    "beginningOfWeek": "2023-07-02T00:00:00Z",
+    "beginningOfMonth": "2023-07-01T00:00:00Z",
+    "beginningOfYear": "2023-01-01T00:00:00Z"
+  }
+]
