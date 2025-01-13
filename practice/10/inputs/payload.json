@@ -1,0 +1,8 @@
+{
+  "products": [
+    { "name": "Notebook", "price": 15.99 },
+    { "name": "Tablet", "price": 120.00 },
+    { "name": "Smartphone", "price": 999.99 },
+    { "name": "Headphones", "price": 45.00 }
+  ]
+}
