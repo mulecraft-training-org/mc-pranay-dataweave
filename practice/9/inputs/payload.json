@@ -1,0 +1,26 @@
+{
+  "campaigns": [
+    {
+      "id": "CAMP_001",
+      "name": "Spring Sale",
+      "target_audience": "young_adults",
+      "budget": 15000,
+      "duration": "30_days",
+      "performance": {
+        "clicks": 1200,
+        "impressions": 50000
+      }
+    },
+    {
+      "id": "CAMP_002",
+      "name": "Summer Blast",
+      "target_audience": "families",
+      "budget": 20000,
+      "duration": "45_days",
+      "performance": {
+        "clicks": 3000,
+        "impressions": 100000
+      }
+    }
+  ]
+}
