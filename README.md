@@ -162,3 +162,9 @@ Click below to find `atBeginningOfYear` function in DataWeave:
 6. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/6"><img width="300" src="/images/dwplayground-button.png"></a>
 
 7. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/7"><img width="300" src="/images/dwplayground-button.png"></a>
+
+8. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/8"><img width="300" src="/images/dwplayground-button.png"></a>
+
+9. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/9"><img width="300" src="/images/dwplayground-button.png"></a>
+
+10. <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=practice/10"><img width="300" src="/images/dwplayground-button.png"></a>
