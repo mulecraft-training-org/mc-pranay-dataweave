@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/d2cf077b-9e05-436d-a38c-659fd1f7cbc5)# mc-pranay-dataweave
-
 ## In this repository, I will be covering the basics of DataWeave alongwith the functions and operations in Dataweave.
 
 #### Functions in Dataweave
