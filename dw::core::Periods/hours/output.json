@@ -1,0 +1,9 @@
+{
+  "nextHour": "2025-01-21T15:38:34.385Z",
+  "previousHour": "2025-01-21T13:38:34.385Z",
+  "threeHoursLater": "21:00:00Z",
+  "addDecimalInput": "21:54:00Z",
+  "decimalInputAsPeriod": "PT7H8M24S",
+  "fourHourPeriod": "PT9H",
+  "addNegativeValue": 3600
+}
