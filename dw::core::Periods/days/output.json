@@ -1,0 +1,10 @@
+{
+  "tomorrow": "2025-01-22T14:25:34.385Z",
+  "yesterday": "2025-01-20T14:25:34.385Z",
+  "decimalDaysPlusQuarter": "2025-01-21T20:25:34.385Z",
+  "decimalDaysPlusHalf": "2025-01-22T02:25:34.385Z",
+  "decimalDaysPlusThreeQuarters": "2025-01-22T08:25:34.385Z",
+  "decimalInputAsPeriod": "PT109H19M12S",
+  "fourDayPeriod": "P6D",
+  "negativeValue": "P-6D"
+}
