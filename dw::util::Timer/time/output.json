@@ -1,0 +1,14 @@
+{
+  "first function": {
+    "start": "2025-01-21T08:33:22.631325Z",
+    "result": "Hi, how are you?",
+    "end": "2025-01-21T08:33:22.731465Z"
+  },
+  "second function": {
+    "start": "2025-01-21T08:33:22.731494Z",
+    "result": 10,
+    "end": "2025-01-21T08:33:22.731558Z"
+  },
+  "difference in the timing of myFunction1": "PT0.100173S",
+  "difference in the timing of myFunction1": "PT0.00018S"
+}
