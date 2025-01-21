@@ -190,7 +190,7 @@ Click below to find `years` function in DataWeave:
 
 Click below to find `seconds` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Period/seconds"><img width="300" src="/images/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Periods/seconds"><img width="300" src="/images/dwplayground-button.png"></a>
 
 Click below to find `minutes` function in DataWeave:
 
