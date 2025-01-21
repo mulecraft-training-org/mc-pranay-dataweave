@@ -178,7 +178,7 @@ Click below to find `days` function in DataWeave:
 
 Click below to find `duration` function in DataWeave:
 
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw:core::Periods/duration"><img width="300" src="/images/dwplayground-button.png"></a>
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Periods/duration"><img width="300" src="/images/dwplayground-button.png"></a>
 
 Click below to find `hours` function in DataWeave:
 
