@@ -1,4 +1,4 @@
-# mc-pranay-dataweave
+![image](https://github.com/user-attachments/assets/d2cf077b-9e05-436d-a38c-659fd1f7cbc5)# mc-pranay-dataweave
 
 ## In this repository, I will be covering the basics of DataWeave alongwith the functions and operations in Dataweave.
 
@@ -73,6 +73,7 @@ Click below to find `substringBefore` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Strings/substringBefore"><img width="300" src="/images/dwplayground-button.png"></a>
 
+
 Click below to find `floor` function in DataWeave:
 1. Basic usage of `floor`:
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=functions/floor/floor-basicUsage"><img width="300" src="/images/dwplayground-button.png"></a>
@@ -145,7 +146,77 @@ Click below to find `atBeginningOfYear` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Dates/atBeginningOfYear"><img width="300" src="/images/dwplayground-button.png"></a>
 
+Click below to find `date` function in DataWeave:
 
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Dates/date"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `dateTime` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Dates/dateTime"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `localDateTime` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Dates/localDateTime"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `localTime` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Dates/localTime"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `time(Dates)` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Dates/time"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `between` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Periods/between"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `period` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Periods/period"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `days` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Period/days"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `duration` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Period/duration"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `hours` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Period/hours"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `years` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Period/years"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `seconds` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Period/seconds"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `minutes` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Period/minutes"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `months` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Period/months"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `duration` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Timer/duration"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `time(Timer)` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Timer/time"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `currentMilliseconds` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Timer/currentMilliseconds"><img width="300" src="/images/dwplayground-button.png"></a>
+
+Click below to find `toMilliseconds` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Timer/toMilliseconds"><img width="300" src="/images/dwplayground-button.png"></a>
 
 #### Dataweave Challenges
 
