@@ -1,0 +1,10 @@
+{
+  "dayAfterDateTime": "2025-01-22T17:11:34.385Z",
+  "dayAndHourBeforeDateTime": "2025-01-20T16:11:34.385Z",
+  "pointInTimeBefore": "2025-01-20T15:51:24.385Z",
+  "emptyDuration": "PT0S",
+  "constructDuration": "PT107H28M",
+  "selectHoursFromDuration": 11,
+  "decimalAsPeriod": "PT30.5S",
+  "addNegativeValue": 59
+}
