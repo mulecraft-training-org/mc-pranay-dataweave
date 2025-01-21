@@ -176,6 +176,10 @@ Click below to find `days` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Periods/days"><img width="300" src="/images/dwplayground-button.png"></a>
 
+Click below to find `duration` function in DataWeave:
+
+<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw:core::Periods/duration"><img width="300" src="/images/dwplayground-button.png"></a>
+
 Click below to find `hours` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Periods/hours"><img width="300" src="/images/dwplayground-button.png"></a>
@@ -212,9 +216,6 @@ Click below to find `toMilliseconds` function in DataWeave:
 
 <a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::util::Timer/toMilliseconds"><img width="300" src="/images/dwplayground-button.png"></a>
 
-Click below to find `duration` function in DataWeave:
-
-<a href="https://dataweave.mulesoft.com/learn/playground?projectMethod=GHRepo&repo=mulecraft-training-org/mc-pranay-dataweave&path=dw::core::Periods/duration"><img width="300" src="/images/dwplayground-button.png"></a>
 
 #### Dataweave Challenges
 
