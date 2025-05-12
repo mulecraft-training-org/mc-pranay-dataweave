@@ -1,0 +1,22 @@
+{
+  "NAME": "Alice Johnson",
+  "AGE": 30,
+  "EMAIL": "alice.johnson@example.com",
+  "ADDRESS": {
+    "STREET": "123 Maple Street",
+    "CITY": "Springfield",
+    "STATE": "IL",
+    "POSTALCODE": "62704"
+  },
+  "EMPLOYMENT": {
+    "ISEMPLOYED": true,
+    "POSITION": "Software Engineer",
+    "COMPANY": "Tech Solutions Inc.",
+    "YEARSEXPERIENCE": 8
+  },
+  "SKILLS": {
+    "SKILL1": "JavaScript",
+    "SKILL2": "Python",
+    "SKILL3": "SQL"
+  }
+}
