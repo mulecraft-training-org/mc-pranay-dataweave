@@ -1,0 +1,11 @@
+{
+  "NAME": "Alice Johnson",
+  "AGE": 30,
+  "EMAIL": "alice.johnson@example.com",
+  "ISEMPLOYED": true,
+  "SKILLS": "JavaScript, Python, SQL",
+  "STREET": "123 Maple Street",
+  "CITY": "Springfield",
+  "STATE": "IL",
+  "POSTALCODE": "62704"
+}
