@@ -1,0 +1,31 @@
+{
+  "EMPLOYEES": [
+    {
+      "ID": 1,
+      "NAME": "Alice Johnson",
+      "POSITION": "Software Engineer",
+      "CONTACT": {
+        "EMAIL": "alice.j@example.com",
+        "PHONE": "555-1234"
+      }
+    },
+    {
+      "ID": 2,
+      "NAME": "Bob Smith",
+      "POSITION": "Product Manager",
+      "CONTACT": {
+        "EMAIL": "bob.s@example.com",
+        "PHONE": "555-5678"
+      }
+    },
+    {
+      "ID": 3,
+      "NAME": "Charlie Lee",
+      "POSITION": "UX Designer",
+      "CONTACT": {
+        "EMAIL": "charlie.l@example.com",
+        "PHONE": "555-9012"
+      }
+    }
+  ]
+}
